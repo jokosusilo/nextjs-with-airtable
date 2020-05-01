@@ -1,0 +1,18 @@
+{
+  "name": "nextjs-with-airtable",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "airtable": "^0.8.1",
+    "isomorphic-unfetch": "^3.0.0",
+    "next": "9.3.6",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "swr": "^0.2.0"
+  }
+}
